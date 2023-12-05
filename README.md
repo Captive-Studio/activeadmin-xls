@@ -1,5 +1,7 @@
 # Active Admin Xls
 
+ℹ️ This is a fork of the [official repository](https://github.com/thambley/activeadmin-xls) who isn't maintained anymore
+
 Excel Spreadsheet Export for [Active Admin]
 
 [![Version][rubygems_badge]][rubygems]
@@ -19,7 +21,7 @@ This gem borrows heavily from [activeadmin-axlsx] and [to_xls].
 Add the following to your Gemfile. All resource index views will now include a link for download directly to xls.
 
 ```ruby
-gem 'activeadmin-xls', '~>2.0.0'
+gem "activeadmin-xls", git: "https://github.com/Captive-Studio/activeadmin-xls"
 ```
 
 For Active Admin 1.0 and above, you will also have to update config/initializers/active_admin.rb.  Update the download\_links setting to include xls:
