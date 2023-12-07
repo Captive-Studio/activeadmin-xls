@@ -176,6 +176,21 @@ BUNDLE_GEMFILE=gemfiles/rails_60.gemfile bundle exec rake setup
 BUNDLE_GEMFILE=gemfiles/rails_60.gemfile bundle exec rake
 ```
 
+About Captive
+-------------
+
+![captive](https://raw.githubusercontent.com/Captive-Studio/assets/main/logo_captive_blue_avec_fond.webp)
+
+This repo is maintained by Captive.
+The names and logos for captive are trademarks of captive-studio.
+
+We love open source software!
+See [our other projects][community] or
+[hire us][hire] to design, develop, and grow your product.
+
+[community]: https://github.com/Captive-Studio
+[hire]: https://www.captive.fr/contact?utm_source=github
+
 [Active Admin]:https://www.activeadmin.info/
 [activeadmin-axlsx]:https://github.com/randym/activeadmin-axlsx
 [to_xls]:https://github.com/splendeo/to_xls
